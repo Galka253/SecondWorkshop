@@ -1,0 +1,23 @@
+body {
+  font-family: roboto;
+  background-color: #8eff9b;
+}
+h1 {
+  font-size: 70px;
+  text-align: center;
+  background-color: #70d3ff;
+  color: #ffe51e;
+  font-stretch: extra-expanded;
+  padding: 50px;
+}
+nav {
+  background-color: #2aff8e;
+  font-size: 30px;
+}
+#About {
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
